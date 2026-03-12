@@ -5,9 +5,9 @@ It is project made for view how I use instrument bs4
 
 On this project have avaliable get all necessary data from <script> with json data
 
-![](.pictures_md/describe_info)
+![](./pictures_md/describe_info)
 
-![](.pictures_md/pictures_info)
+![](./pictures_md/pictures_info)
 
 ### Info
 
