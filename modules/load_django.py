@@ -2,7 +2,7 @@ import sys
 import os
 import django
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'brain_com_ua')))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'braincomua_project')))
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "brain_com_ua.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "braincomua_project.settings")
 django.setup()
