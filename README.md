@@ -436,9 +436,8 @@ Example result of the parser:
 
 The parser could be improved by:
 
-- Removing static cookies
-- Adding retry logic for requests
-- Supporting multiple product pages
-- Exporting results to CSV or JSON
-- Adding logging
-- Extracting data from embedded JSON scripts (faster and more stable)
+- remove static cookies
+- remove static user-agent
+- add proxy
+- add mutlitreading
+- make better parser row
